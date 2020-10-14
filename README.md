@@ -1,9 +1,10 @@
-# jucom_praktikum
+# jucom Praktikum
 
 ## A Software Development Workshop Containing Mini Computer Science Projects
 
-### Company
-jucom e.K.
+### Company: #jucom# 
+https://jucom.de/
+
 
 ### Prior Knowledge
 __the attendees are first year computer science students that have already gained a basic knowledge of programming__
