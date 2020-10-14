@@ -1,13 +1,22 @@
 # jucom_praktikum
 
-## a repository containing mini computer science projects  
+## A Software Development Workshop Containing Mini Computer Science Projects
+
+### Company
+jucom e.K.
+
+### Prior Knowledge
+__the attendees are first year computer science students that have already gained a basic knowledge of programming__
 
 ### Goal
-__learning and solidifying software development concepts__
+__solidifying and aquiring software development concepts__
 
 ### Attendees
 * __Fabian__
 * __Jacob__
+
+### Tutor
+* __Dhia Nabli__
 
 ### Roadmap
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
