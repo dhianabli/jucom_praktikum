@@ -1,6 +1,8 @@
 
 
-# jucom Praktikum
+# jucom 
+
+# Praktikum
 
 ## A Software Development Workshop Containing Mini Computer Science Projects
 
