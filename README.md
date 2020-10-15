@@ -20,7 +20,7 @@ __the attendees are first year computer science students that have already gaine
 __solidifying and aquiring software development concepts__
 
 ### Attendees
-* __Fabian__
+* __Fabian Thiele__
 * __Jacob__
 
 ### Tutor
