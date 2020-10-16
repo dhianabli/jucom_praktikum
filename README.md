@@ -74,8 +74,8 @@ __solidifying and aquiring software development concepts__
   * ✅ Use the _Stack_ Datastructure with the help of Recursion to get rid of the Nested _for loop_
   
 * ✅ More OOP
-  * ⬜️ _class_ as a Blueprint 
-  * ⬜️ _class_ _Properties_ and _Methods_
+  * ✅ _class_ as a Blueprint 
+  * ✅ _class_ _Properties_ and _Methods_
   
 * ✅ GUI
   * ✅ Introduction to GUI Frameworks in _java_ 
