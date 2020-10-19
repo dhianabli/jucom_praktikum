@@ -87,7 +87,7 @@ __solidifying and aquiring software development concepts__
   * ✅ _IP Addresses_ and _Ports_
   * ✅ Hands on an Example of Client Server Communication
   * ✅ Difference between _TCP/IP_ and _UDP_ Sockets
-* ✅ Mini Project: Build a Grapihcal Client Server Application to Send and Recieve Information
+* ✅ Mini Project: Build a Graphical Client Server Application to Send and Recieve Information
 
 * ✅ Version Controlling
   * ✅ Introduction to _git_ and _github_
